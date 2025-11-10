@@ -35,7 +35,7 @@ const Login = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome to Firebase Auth 👋</Text>
+      <Text style={styles.title}>Welcome</Text>
       <Text style={styles.subtitle}>Sign in or create a new account</Text>
 
       <TextInput
